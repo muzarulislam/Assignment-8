@@ -1,0 +1,180 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.home{
+    background-color: #34495e;
+}
+.home h3{
+    color: #fff;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+}
+/* Service-Section */
+.service-section{
+    background-color: #0d6efd;
+    padding-bottom: 20px;
+    display: inline-block;
+}
+.box1{
+    width: 400px;
+    height: 200px;
+    color: #fff;
+    background-color: #e67e22;
+    display: inline-block;
+    padding: 20px;
+    margin-top: 50px;
+    margin-left: 50px;
+    border-radius: 0px 40px 40px 0px;
+    border-left: 3px solid black;
+}
+.box2{
+    width: 400px;
+    height: 200px;
+    color: #fff;
+    background-color: #1abc9c;
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 300px;
+    border-radius: 40px 0px 0px 40px;
+    box-shadow: 7px 7px 5px #6851ca;
+    display: inline-block;
+}
+.box3{
+    width: 400px;
+    height: 200px;
+    color: #fff;
+    background-color: #34495e;
+    display: inline-block;
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 400px;
+    border-radius: 0px 40px 40px 0px;
+    border-left: 3px solid red;
+    box-shadow: 7px 7px 5px #12083f;
+}
+
+/* Flag */
+.flag{
+    background-color: #4d687a;
+    margin: -8px;
+    padding: 50px 0px;
+}
+.flag h2{
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 0px 0px 20px 0px;
+}
+.bangladesh{
+    width: 450px;
+    height: 250px;
+    background: green;
+    padding: 25px 125px;
+    margin: auto;
+    box-shadow: 2px 2px 6px black;
+
+}
+.red{
+    width: 200px;
+    height: 200px;
+    background: red;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+/* England */
+.england{
+    width: 450px;
+    height: 250px;
+    background: #fff;
+    margin: auto;
+    margin-top: 20px;
+}
+.line1{
+    width: 100%;
+    height: 40px;
+    background: red;
+    margin-top: 100px;
+    display: inline-block;
+}
+.line2{
+    width: 40px;
+    height: 100%;
+    background: red;
+    margin-top: -146px;
+    margin-left: 280px;
+}
+
+/* Japan */
+.japan{
+    width: 450px;
+    height: 250px;
+    background: white;
+    padding: 25px 125px;
+    margin: auto;
+    box-shadow: 2px 2px 6px black;
+    border: 2px solid black;
+
+}
+.red{
+    width: 200px;
+    height: 200px;
+    background: red;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+/* Germany */
+.Germany div{
+    width: 450px;
+    height: 83px;
+    margin: auto;
+    box-shadow: 3px 3px 8px #0d6efd;
+}
+.Germany div:nth-child(1){
+    background-color: black;
+}
+.Germany div:nth-child(2){
+    background-color: red;
+}
+.Germany div:nth-child(3){
+    background-color: yellow;
+}
+
+/* Palestine */
+.Palestine{
+    width: 450px;
+    height: 250px;
+    margin: auto;
+    box-shadow: 7px 7px 5px #12083f;
+}
+.rectangle{
+    display: block;
+    position: absolute;
+    width: 200px;
+    height: 250px;
+    background-color: red;
+    clip-path: polygon(0 0, 0 100%, 60% 50%);
+}
+.line{
+    display: block;
+    width: 450px;
+    height: 80px;
+}
+.black{
+    background: black;
+}
+.white{
+    background: #fff;
+}
+.green{
+    background: green;
+}
+
+/* Footer */
+.footer h4{
+    background: #198754;
+    color: #fff;
+    padding: 20px;
+    font-family: "Roboto", sans-serif;
+}
